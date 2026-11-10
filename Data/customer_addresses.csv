@@ -1,0 +1,32 @@
+customer_ref,label,address_text,is_default
+CUST001,Home,"House 34, Baraka Street, Kahawa Sukari, Nairobi",true
+CUST002,Home,"Flat 28, Mwihoko Drive, Kiganjo Road, Thika",true
+CUST003,Home,"House 8, Baraka Street, Ngoingwa, Thika",true
+CUST004,Home,"Apartment 35, Jacaranda Road, Kiganjo Road, Thika",true
+CUST004,Work,"Apartment 20, Tumaini Avenue, Westlands, Nairobi",false
+CUST005,Home,"Apartment 28, Acacia Lane, Kahawa Sukari, Nairobi",true
+CUST005,Work,"Apartment 1, Mugumo Close, Juja South, Juja",false
+CUST006,Home,"Flat 30, Sunrise Gardens, Kiganjo Road, Thika",true
+CUST007,Home,"House 17, Baraka Street, Landless Estate, Thika",true
+CUST007,Work,"Apartment 33, Sunrise Gardens, Kilimani, Nairobi",false
+CUST008,Home,"Apartment 36, Baraka Street, Kahawa Sukari, Nairobi",true
+CUST008,Work,"House 19, Jacaranda Road, Lang'ata, Nairobi",false
+CUST009,Home,"House 29, Baraka Street, Kahawa Sukari, Nairobi",true
+CUST009,Work,"Flat 17, Mwihoko Drive, Ruaka, Kiambu",false
+CUST010,Home,"Flat 31, Mugumo Close, Ngoingwa, Thika",true
+CUST011,Home,"Apartment 7, Acacia Lane, Ngoingwa, Thika",true
+CUST011,Work,"Apartment 10, Mwihoko Drive, Ruaka, Kiambu",false
+CUST012,Home,"House 29, Tumaini Avenue, Westlands, Nairobi",true
+CUST013,Home,"House 8, Tumaini Avenue, Kasarani, Nairobi",true
+CUST014,Home,"Flat 23, Acacia Lane, Ruaka, Kiambu",true
+CUST015,Home,"Flat 38, Tumaini Avenue, Embakasi, Nairobi",true
+CUST016,Home,"Flat 15, Mwihoko Drive, Roysambu, Nairobi",true
+CUST016,Work,"House 39, Baraka Street, Roysambu, Nairobi",false
+CUST017,Home,"Apartment 11, Acacia Lane, Westlands, Nairobi",true
+CUST017,Work,"Flat 20, Tumaini Avenue, Embakasi, Nairobi",false
+CUST018,Home,"House 34, Sunrise Gardens, Syokimau, Machakos",true
+CUST018,Work,"Apartment 1, Mugumo Close, Ngoingwa, Thika",false
+CUST019,Home,"House 23, Baraka Street, Westlands, Nairobi",true
+CUST019,Work,"House 2, Tumaini Avenue, Kiganjo Road, Thika",false
+CUST020,Home,"Flat 20, Mwihoko Drive, Embakasi, Nairobi",true
+CUST020,Work,"House 32, Mwihoko Drive, Kiganjo Road, Thika",false

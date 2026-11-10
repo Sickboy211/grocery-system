@@ -1,0 +1,33 @@
+﻿# Database credentials
+/config.php
+/config.local.php
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# All database configuration files
+config.php
+config.local.php
+*.before-login-fix
+
+# Older backup copy
+/FreshStock/
+
+# Local UI inspiration and reference files
+/UI & Data/

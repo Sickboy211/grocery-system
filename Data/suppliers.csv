@@ -1,0 +1,7 @@
+supplier_ref,name,phone,email,notes
+SUP001,Kiambu Valley Farms Ltd,+254700200001,sales@kiambuvalley.example.invalid,"Fruit supplier, delivers Mon/Thu"
+SUP002,Thika Fresh Produce Co-op,+254700200002,orders@thikafresh.example.invalid,Vegetables; daily early-morning drop-off
+SUP003,Naivasha Dairy & Bakery Traders,+254700200003,dairy@naivashatraders.example.invalid,"Milk, yoghurt, butter and bread; cold-chain van"
+SUP004,Rift Grain Millers,+254700200004,accounts@riftgrain.example.invalid,"Dry goods, flour, sugar and oil; 30-day credit terms"
+SUP005,Coastal Fish & Frozen Foods,+254700200005,frozen@coastalfish.example.invalid,Frozen fish and vegetables; minimum order 20 kg
+SUP006,Mama Wanjiru Eggs & Poultry,+254700200006,hello@wanjirupoultry.example.invalid,"Eggs and chicken, beef mince; weekly invoice"

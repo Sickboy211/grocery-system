@@ -1,0 +1,41 @@
+order_ref,customer_ref,source,status,payment_status,payment_method,subtotal,delivery_fee,discount,total_amount,delivery_address,departure_location,ordered_at
+ORD001,CUST017,mobile_app,completed,paid,mpesa,3410.00,250.00,100.00,3560.00,"Apartment 11, Acacia Lane, Westlands, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-10-02 23:47:26
+ORD002,CUST018,mobile_app,completed,paid,mpesa,195.00,250.00,0.00,445.00,"House 34, Sunrise Gardens, Syokimau, Machakos","FreshStock Roysambu Dark Store, Nairobi",2026-10-04 16:58:59
+ORD003,CUST019,mobile_app,completed,paid,card,760.00,250.00,0.00,1010.00,"House 23, Baraka Street, Westlands, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-10-08 19:17:43
+ORD004,CUST020,phone,completed,paid,mpesa,1180.00,250.00,50.00,1380.00,"Flat 20, Mwihoko Drive, Embakasi, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-10-09 14:55:08
+ORD005,CUST004,phone,completed,paid,cash,2605.00,150.00,0.00,2755.00,"Apartment 35, Jacaranda Road, Kiganjo Road, Thika","FreshStock Thika Town Store, Thika",2026-10-10 19:46:00
+ORD006,CUST012,web,completed,paid,mpesa,2895.00,250.00,100.00,3045.00,"House 29, Tumaini Avenue, Westlands, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-10-11 09:09:20
+ORD007,CUST004,phone,completed,paid,cash,660.00,150.00,0.00,810.00,"Apartment 35, Jacaranda Road, Kiganjo Road, Thika","FreshStock Thika Town Store, Thika",2026-10-12 15:50:42
+ORD008,CUST014,mobile_app,cancelled,refunded,card,1140.00,250.00,0.00,1390.00,"Flat 23, Acacia Lane, Ruaka, Kiambu","FreshStock Roysambu Dark Store, Nairobi",2026-10-13 22:10:33
+ORD009,CUST016,phone,completed,paid,mpesa,1840.00,250.00,0.00,2090.00,"House 39, Baraka Street, Roysambu, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-10-17 15:57:22
+ORD010,CUST005,whatsapp,completed,paid,mpesa,1490.00,150.00,0.00,1640.00,"Apartment 1, Mugumo Close, Juja South, Juja","FreshStock Thika Town Store, Thika",2026-10-20 17:03:06
+ORD011,CUST007,phone,cancelled,refunded,mpesa,2005.00,150.00,0.00,2155.00,"House 17, Baraka Street, Landless Estate, Thika","FreshStock Thika Town Store, Thika",2026-10-21 03:34:19
+ORD012,CUST009,phone,completed,paid,card,360.00,150.00,0.00,510.00,"House 29, Baraka Street, Kahawa Sukari, Nairobi","FreshStock Thika Town Store, Thika",2026-10-22 09:11:21
+ORD013,CUST006,phone,completed,paid,mpesa,880.00,150.00,0.00,1030.00,"Flat 30, Sunrise Gardens, Kiganjo Road, Thika","FreshStock Thika Town Store, Thika",2026-10-23 14:33:39
+ORD014,CUST010,whatsapp,completed,paid,card,520.00,150.00,0.00,670.00,"Flat 31, Mugumo Close, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-10-26 13:23:37
+ORD015,CUST006,mobile_app,cancelled,pending,mpesa,3725.00,150.00,100.00,3775.00,"Flat 30, Sunrise Gardens, Kiganjo Road, Thika","FreshStock Thika Town Store, Thika",2026-10-26 21:58:35
+ORD016,CUST008,web,completed,paid,mpesa,990.00,150.00,0.00,1140.00,"Apartment 36, Baraka Street, Kahawa Sukari, Nairobi","FreshStock Thika Town Store, Thika",2026-10-27 21:42:48
+ORD017,CUST016,whatsapp,cancelled,refunded,mpesa,845.00,250.00,0.00,1095.00,"House 39, Baraka Street, Roysambu, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-10-28 00:54:37
+ORD018,CUST003,whatsapp,cancelled,pending,cash,1945.00,150.00,50.00,2045.00,"House 8, Baraka Street, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-10-28 17:37:55
+ORD019,CUST011,whatsapp,completed,paid,mpesa,300.00,150.00,0.00,450.00,"Apartment 7, Acacia Lane, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-10-29 01:59:00
+ORD020,CUST005,phone,completed,paid,mpesa,3365.00,150.00,0.00,3515.00,"Apartment 1, Mugumo Close, Juja South, Juja","FreshStock Thika Town Store, Thika",2026-10-30 00:52:11
+ORD021,CUST015,phone,completed,paid,cash,2535.00,250.00,50.00,2735.00,"Flat 38, Tumaini Avenue, Embakasi, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-10-30 08:58:34
+ORD022,CUST009,phone,cancelled,failed,mpesa,1930.00,250.00,50.00,2130.00,"Flat 17, Mwihoko Drive, Ruaka, Kiambu","FreshStock Roysambu Dark Store, Nairobi",2026-10-30 13:04:09
+ORD023,CUST001,whatsapp,completed,paid,mpesa,1780.00,150.00,0.00,1930.00,"House 34, Baraka Street, Kahawa Sukari, Nairobi","FreshStock Thika Town Store, Thika",2026-10-31 08:43:41
+ORD024,CUST007,mobile_app,completed,paid,cash,660.00,150.00,0.00,810.00,"House 17, Baraka Street, Landless Estate, Thika","FreshStock Thika Town Store, Thika",2026-10-31 14:14:50
+ORD025,CUST010,mobile_app,completed,paid,card,4370.00,150.00,100.00,4420.00,"Flat 31, Mugumo Close, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-11-03 06:30:28
+ORD026,CUST016,whatsapp,completed,paid,cash,2770.00,250.00,0.00,3020.00,"House 39, Baraka Street, Roysambu, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-11-04 20:14:18
+ORD027,CUST013,phone,processing,pending,cash,1135.00,250.00,100.00,1285.00,"House 8, Tumaini Avenue, Kasarani, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-11-09 15:25:54
+ORD028,CUST003,mobile_app,processing,paid,card,1075.00,150.00,0.00,1225.00,"House 8, Baraka Street, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-11-09 17:10:48
+ORD029,CUST007,mobile_app,processing,pending,cash,3310.00,250.00,100.00,3460.00,"Apartment 33, Sunrise Gardens, Kilimani, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-11-09 17:24:28
+ORD030,CUST005,mobile_app,processing,paid,mpesa,820.00,150.00,0.00,970.00,"Apartment 28, Acacia Lane, Kahawa Sukari, Nairobi","FreshStock Thika Town Store, Thika",2026-11-09 18:47:45
+ORD031,CUST012,mobile_app,processing,paid,mpesa,1365.00,250.00,0.00,1615.00,"House 29, Tumaini Avenue, Westlands, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-11-09 19:33:02
+ORD032,CUST003,phone,processing,paid,mpesa,1705.00,150.00,0.00,1855.00,"House 8, Baraka Street, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-11-09 20:15:48
+ORD033,CUST011,mobile_app,processing,paid,card,930.00,150.00,50.00,1030.00,"Apartment 7, Acacia Lane, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-11-09 20:58:32
+ORD034,CUST016,phone,pending,pending,card,2110.00,250.00,0.00,2360.00,"Flat 15, Mwihoko Drive, Roysambu, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-11-09 23:14:12
+ORD035,CUST015,web,pending,failed,mpesa,250.00,250.00,0.00,500.00,"Flat 38, Tumaini Avenue, Embakasi, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-11-10 01:34:05
+ORD036,CUST003,phone,pending,pending,mpesa,2830.00,150.00,0.00,2980.00,"House 8, Baraka Street, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-11-10 02:26:43
+ORD037,CUST012,phone,pending,pending,mpesa,1350.00,250.00,0.00,1600.00,"House 29, Tumaini Avenue, Westlands, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-11-10 03:03:30
+ORD038,CUST016,phone,processing,paid,mpesa,440.00,250.00,0.00,690.00,"Flat 15, Mwihoko Drive, Roysambu, Nairobi","FreshStock Roysambu Dark Store, Nairobi",2026-11-10 05:48:08
+ORD039,CUST002,web,pending,pending,cash,2845.00,150.00,0.00,2995.00,"Flat 28, Mwihoko Drive, Kiganjo Road, Thika","FreshStock Thika Town Store, Thika",2026-11-10 08:12:14
+ORD040,CUST003,web,pending,pending,cash,1720.00,150.00,100.00,1770.00,"House 8, Baraka Street, Ngoingwa, Thika","FreshStock Thika Town Store, Thika",2026-11-10 08:50:11

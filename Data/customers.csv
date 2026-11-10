@@ -1,0 +1,21 @@
+customer_ref,full_name,email,phone,status,registered_at
+CUST001,Wanjiku Kamau,wanjiku.kamau@example.invalid,+254700100001,active,2026-01-14 14:32:00
+CUST002,Brian Otieno,brian.otieno@example.invalid,+254700100002,active,2026-01-20 18:29:00
+CUST003,Achieng Odhiambo,achieng.odhiambo@example.invalid,+254700100003,active,2026-02-01 03:22:00
+CUST004,Kevin Mwangi,kevin.mwangi@example.invalid,+254700100004,active,2026-02-13 10:37:00
+CUST005,Faith Njeri,faith.njeri@example.invalid,+254700100005,active,2026-02-18 11:44:00
+CUST006,Hassan Abdi,hassan.abdi@example.invalid,+254700100006,active,2026-02-27 13:12:00
+CUST007,Mercy Chebet,mercy.chebet@example.invalid,+254700100007,active,2026-03-04 20:55:00
+CUST008,Peter Kariuki,peter.kariuki@example.invalid,+254700100008,active,2026-03-15 00:20:00
+CUST009,Grace Wambui,grace.wambui@example.invalid,+254700100009,active,2026-03-24 06:19:00
+CUST010,Daniel Kiprop,daniel.kiprop@example.invalid,+254700100010,active,2026-04-03 13:06:00
+CUST011,Lydia Nyambura,lydia.nyambura@example.invalid,+254700100011,active,2026-04-09 18:11:00
+CUST012,Samuel Mutua,samuel.mutua@example.invalid,+254700100012,active,2026-04-18 22:40:00
+CUST013,Esther Akinyi,esther.akinyi@example.invalid,+254700100013,active,2026-04-26 02:41:00
+CUST014,Joseph Maina,joseph.maina@example.invalid,+254700100014,active,2026-05-06 08:10:00
+CUST015,Naomi Wairimu,naomi.wairimu@example.invalid,+254700100015,active,2026-05-17 09:35:00
+CUST016,Collins Omondi,collins.omondi@example.invalid,+254700100016,active,2026-05-29 11:02:00
+CUST017,Rose Atieno,rose.atieno@example.invalid,+254700100017,inactive,2026-06-10 18:00:00
+CUST018,Martin Njoroge,martin.njoroge@example.invalid,+254700100018,inactive,2026-06-20 00:36:00
+CUST019,Janet Muthoni,janet.muthoni@example.invalid,+254700100019,inactive,2026-07-02 09:09:00
+CUST020,Victor Kimani,victor.kimani@example.invalid,+254700100020,inactive,2026-07-07 12:58:00

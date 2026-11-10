@@ -1,0 +1,21 @@
+product_ref,name,barcode,quantity,unit,low_stock_threshold,unit_cost,storage_location,expiry_date,is_perishable,supplier_ref
+PROD001,Maize Flour 2kg,9990000000001,85,pack,30,140.00,shelf,2027-05-15,false,SUP004
+PROD002,White Sugar 1kg,9990000000002,22,pack,40,150.00,shelf,2027-08-30,false,SUP004
+PROD003,Cooking Oil 1L,9990000000003,60,bottle,25,290.00,shelf,2027-03-20,false,SUP004
+PROD004,Pishori Rice 2kg,9990000000004,48,pack,20,420.00,storeroom,2027-09-01,false,SUP004
+PROD005,Wheat Flour 2kg,9990000000005,15,pack,25,170.00,storeroom,2027-02-10,false,SUP004
+PROD006,Iodised Salt 1kg,9990000000006,120,pack,40,35.00,storeroom,2028-01-01,false,SUP004
+PROD007,Tea Leaves 250g,9990000000007,70,pack,30,95.00,shelf,2027-06-30,false,SUP004
+PROD008,Fresh Milk 500ml,9990000000008,40,packet,50,55.00,fridge,2026-11-13,true,SUP003
+PROD009,Plain Yoghurt 500ml,9990000000009,28,tub,15,110.00,fridge,2026-11-20,true,SUP003
+PROD010,Butter 250g,9990000000010,18,block,10,260.00,fridge,2026-12-28,true,SUP003
+PROD011,Eggs Tray of 30,9990000000011,26,tray,12,380.00,fridge,2026-11-24,true,SUP006
+PROD012,Tomatoes 1kg,9990000000012,9,kg,20,70.00,fridge,2026-11-12,true,SUP002
+PROD013,Sukuma Wiki Bunch,9990000000013,45,bunch,20,15.00,fridge,2026-11-11,true,SUP002
+PROD014,Bananas 1kg,9990000000014,35,kg,15,60.00,shelf,2026-11-14,true,SUP001
+PROD015,Hass Avocado,9990000000015,60,piece,25,25.00,shelf,2026-11-16,true,SUP001
+PROD016,Chicken Breast 1kg,9990000000016,30,kg,15,520.00,freezer,2027-02-05,true,SUP006
+PROD017,Beef Mince 500g,9990000000017,12,pack,15,330.00,freezer,2027-01-18,true,SUP006
+PROD018,Tilapia Fillets 1kg,9990000000018,20,kg,10,650.00,freezer,2027-01-30,true,SUP005
+PROD019,Frozen Green Peas 500g,9990000000019,38,pack,15,180.00,freezer,2027-04-12,true,SUP005
+PROD020,White Bread 400g,9990000000020,33,loaf,30,50.00,shelf,2026-11-09,true,SUP003
